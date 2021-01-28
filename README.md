@@ -1,1 +1,1 @@
-# Visual-Paper-Ball
+# Paper-Ball
